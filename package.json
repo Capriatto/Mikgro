@@ -30,7 +30,7 @@
     "forever": "^2.0.0",
     "install": "^0.13.0",
     "localtunnel": "^2.0.0",
-    "minimist": "^0.2.1",
+    "minimist": "^1.2.6",
     "mocha": "^7.1.2",
     "mocha-jenkins-reporter": "^0.4.3",
     "npm": "^6.14.5",
