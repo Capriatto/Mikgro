@@ -46,7 +46,7 @@
     "chai": "^4.2.0",
     "cookie-parser": "^1.4.5",
     "jquery": "^3.5.1",
-    "jsdom": "13.2.0",
+    "jsdom": "16.5.0",
     "jsdom-global": "3.0.2",
     "mocha-jsdom": "^2.0.0",
     "moment": "^2.25.3",
